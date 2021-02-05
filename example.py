@@ -9,7 +9,6 @@ for i in range(num_seq):
     F2 = F1 + F0
 
     # shift numbers
-    io
     F0 = F1
     F1 = F2
     print(F2)
